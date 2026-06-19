@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Global_Assets
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Global_Assets
+  m_GUID: 128f8e4f7c31efb4490be3b0b7e36b90
+  m_SerializeEntries:
+  - m_GUID: 07ca1ab0acc2b57479743d76b686c3cd
+    m_Address: SDK
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bootstrap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d071f64c00cbca4aa0362e6c1019feb
+    m_Address: DontDestroyManagers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bootstrap
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce6ca9b43edd9644fb91d79a26b0837b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a29b8e46da5b72c44b0d111f87553f0d, type: 2}
+    - {fileID: 11400000, guid: 7b1e3365253db724bb579444c81d8618, type: 2}

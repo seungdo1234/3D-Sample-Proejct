@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -rl \"2fb2e5cf6b2374645b9f1bb1245d1ef3\" Assets --include=*.prefab --include=*.unity)",
+      "Bash(grep -rl \"58781d23abbb3ef4990ee2ca598960e8\" Assets --include=*.prefab --include=*.unity)"
+    ]
+  }
+}

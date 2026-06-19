@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45827efb7fbe7214e8df0309143caa29, type: 3}
+  m_Name: AddressableManagerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::AddressableManagerConfig
+  folderPolicies:
+  - folderKey: InGame/Entity
+    autoRegister: 1
+    defaultLabels: []
+  - folderKey: InGame/Map
+    autoRegister: 1
+    defaultLabels: []
+  - folderKey: InGame/System
+    autoRegister: 1
+    defaultLabels: []
+  - folderKey: InGame/UI
+    autoRegister: 1
+    defaultLabels: []
