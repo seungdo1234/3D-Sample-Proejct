@@ -110,8 +110,6 @@ Assets/_Dev/_Scripts/Framework/
 
 </details>
 
-<br>
-
 <details>
 <summary><h3>🎮 Game — 게임 고유 로직 (펼치기/접기)</h3></summary>
 
